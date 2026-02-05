@@ -1,19 +1,13 @@
-# @xuanmiss/dingtalk
+# @xuanmiss-npm/dingtalk
 
 OpenClaw 钉钉 (DingTalk) 渠道插件 - 支持 Stream 模式接入。
 
 ## 安装
 
-### 从 npm 安装
-
-```bash
-openclaw plugins install @xuanmiss/dingtalk
+openclaw plugins install @xuanmiss-npm/dingtalk
 ```
 
 ### 从本地源码安装
-
-```bash
-openclaw plugins install ./extensions/dingtalk
 # 或使用 link 模式（不复制文件，适合开发）
 openclaw plugins install -l ./extensions/dingtalk
 ```

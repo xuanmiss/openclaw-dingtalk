@@ -1,6 +1,6 @@
 {
     "name": "@xuanmiss-npm/dingtalk",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "description": "OpenClaw DingTalk (钉钉) channel plugin - Stream mode",
     "type": "module",
     "license": "MIT",
@@ -40,7 +40,7 @@
             "order": 20
         },
         "install": {
-            "npmSpec": "@xuanmiss/dingtalk",
+            "npmSpec": "@xuanmiss-npm/dingtalk",
             "localPath": "extensions/dingtalk",
             "defaultChoice": "npm"
         }
