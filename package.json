@@ -21,6 +21,7 @@
         "plugin"
     ],
     "dependencies": {
+        "@alicloud/dingtalk": "^2.2.38",
         "dingtalk-stream": "^2.1.4",
         "zod": "^4.3.6"
     },
